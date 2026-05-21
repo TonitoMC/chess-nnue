@@ -1,0 +1,3 @@
+[submodule "nnue-pytorch"]
+	path = nnue-pytorch
+	url = git@github.com:official-stockfish/nnue-pytorch
